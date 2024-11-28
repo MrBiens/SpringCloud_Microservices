@@ -9,4 +9,4 @@ Microservices :
   2.1 . Create Profile -> @FeignClient 1.1
 3.Notification Service
   3.1.Send email
-3.PostUser Service
+4.PostUser Service
